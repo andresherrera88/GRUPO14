@@ -3,7 +3,7 @@
 }
 
 .logo {
-    width: 150px;
+    width: 100px;
     height: 100px;
     text-align: left;
 }
@@ -13,11 +13,4 @@
     border: #000000 1px;
     border-radius: 1px;
     padding: 10px;
-}
-
-#seguridad{
-    position: absolute;
-    top: 30px;
-    right: 300px;
-    
 }

@@ -8,15 +8,15 @@ base style sheet for all themes
 body {
     margin: 0;
     padding: 0 10px 10px 10px;
-    font-family: arial, verdana, franklin gothic heavy, helvetica, sans-serif;
+    font-family: arial, verdana, helvetica, sans-serif, Georgia, Franklin-gothic-heavy;
     font-size: .8em
 }
 
 #header {
     text-align: left;
-    height: 70px;
+    height: 100px;
     padding-left: 30px;
-    font-size: 3.2em;
+    font-size: 4.2em;
     font-weight: bold
 }
 
